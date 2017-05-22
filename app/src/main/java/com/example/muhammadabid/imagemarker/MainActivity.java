@@ -288,6 +288,7 @@ public abstract class MainActivity extends AppCompatActivity implements OnMapRea
             imageBitmap = (Bitmap) extras.get("data");
 
             //image.setImageBitmap(imageBitmap);
+            //abid
         }
     }
 }
